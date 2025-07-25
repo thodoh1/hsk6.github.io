@@ -1214,7 +1214,7 @@
     { hanzi: '先进', pinyin: 'xiānjìn', russian: 'передовой; прогрессивный' },
     { hanzi: '先例', pinyin: 'xiānlì', russian: 'прецедент; пример' },
     { hanzi: '纤维', pinyin: 'xiānwéi', russian: 'волокно; фибра' },
-    { hanzi: '鲜明', pinyin: 'xiānmíng', russian: 'яркий; отчётливый' },
+    { hanzi: '鲜明', pinyin: 'xiānmíng', russian: 'яркий; отчётливый' }
         ];
 
         // DOM Elements
