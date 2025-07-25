@@ -444,7 +444,7 @@
     { hanzi: '阀门', pinyin: 'fámén', russian: 'клапан; вентиль' },
     { hanzi: '法案', pinyin: 'fǎ’àn', russian: 'законопроект' },
     { hanzi: '法制', pinyin: 'fǎzhì', russian: 'правовая система; законность' },
- hanzi: '繁华', pinyin: 'fánhuá', russian: 'процветающий; оживлённый' },
+    {hanzi: '繁华', pinyin: 'fánhuá', russian: 'процветающий; оживлённый' },
     { hanzi: '繁殖', pinyin: 'fánzhí', russian: 'размножаться; разводить' },
     { hanzi: '反驳', pinyin: 'fǎnbó', russian: 'опровергать; возражать' },
     { hanzi: '反常', pinyin: 'fǎncháng', russian: 'ненормальный; необычный' },
